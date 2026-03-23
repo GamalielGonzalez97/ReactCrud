@@ -12,7 +12,7 @@
   transition: filter 300ms;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+  filter: drop-shadow(0 0 2em #4750ffaa);
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
@@ -38,7 +38,7 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #ad9b9b;
 }
 
 .container {
@@ -67,7 +67,7 @@ ul {
 
 li {
   margin-top: 10px;
-  background: #ba29c4;
+  background: #29c474;
   padding: 8px;
   display: flex;
   justify-content: space-between;
