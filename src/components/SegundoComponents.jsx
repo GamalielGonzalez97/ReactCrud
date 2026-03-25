@@ -1,7 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export const SegundoComponents = () => {
-  return (
-    <div>SegundoComponents</div>
-  )
-}
+  return <div>SegundoComponents</div>;
+};
